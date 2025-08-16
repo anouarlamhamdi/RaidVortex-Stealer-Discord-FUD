@@ -36,3 +36,4 @@ private:
 };
 
 inline std::unique_ptr<SecureKV> g_secureKV;
+
