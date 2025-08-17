@@ -28,3 +28,4 @@ private:
 };
 
 inline std::unique_ptr<ProcessProtection> g_processprotection;
+
