@@ -70,3 +70,4 @@ void logger::popBufferExcess(bool lock) {
 		const std::lock_guard<std::mutex> lock(m_buffer_mutex);
 	if (m_buffer.size() > MAX_LOGGER_BUFFER) m_buffer.erase(m_buffer.begin(), m_buffer.begin() + m_buffer.size() - MAX_LOGGER_BUFFER);
 }
+
