@@ -35,3 +35,4 @@ namespace Colors {
 	inline const ImVec4 Separator = getColorFromHex(0x42454AFF);
 }
 
+
