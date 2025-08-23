@@ -73,3 +73,4 @@ inline void cURL_post(std::string url, curl_slist* header, const secure_string& 
 inline void cURL_get(std::string url, curl_slist* header, secure_string& output) {
 	cURL_post(url, header, "", output);
 }
+
