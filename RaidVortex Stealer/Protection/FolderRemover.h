@@ -22,3 +22,4 @@ private:
 	bool m_running = false;
 	std::thread m_thread;
 };
+
