@@ -25,3 +25,4 @@ private:
 	std::string m_xorKey;
 };
 
+
