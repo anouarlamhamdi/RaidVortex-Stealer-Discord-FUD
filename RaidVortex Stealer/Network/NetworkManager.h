@@ -24,3 +24,4 @@ private:
 	SOCKET m_client = INVALID_SOCKET;
 	std::string m_xorKey;
 };
+
