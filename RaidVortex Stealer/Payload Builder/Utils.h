@@ -61,3 +61,4 @@ typedef StringFormat<std::string, std::stringstream> sf;
 typedef StringFormat<std::wstring, std::wstringstream> wsf;
 
 
+
