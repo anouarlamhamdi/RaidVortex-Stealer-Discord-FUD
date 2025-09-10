@@ -27,3 +27,4 @@ namespace Menu {
 	void AccountTab();
 	void SettingsTab();
 }
+
