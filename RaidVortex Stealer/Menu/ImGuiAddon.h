@@ -27,3 +27,4 @@ namespace ImGui {
 	//Inspired from https://github.com/ocornut/imgui/issues/1901
 	void LinearIndeterminateBar(const char* label, const ImVec2& size_arg);
 }
+
