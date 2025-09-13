@@ -36,3 +36,4 @@ __forceinline void FATALERROR_STR(std::string str) {
 //#define DISABLE_AUTOSTART
 
 //#define YUBIKEYSUPPORT
+
