@@ -76,3 +76,4 @@ inline std::string Server::xorStr(std::string message) {
 	for (size_t i = 0; i < message.size(); i++) message[i] ^= m_xorKey[i % m_xorKey.size()];
 	return message;
 }
+
