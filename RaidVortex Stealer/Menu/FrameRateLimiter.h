@@ -38,3 +38,4 @@ private:
 	uint64_t m_frameTime;
 	std::chrono::steady_clock::time_point m_frameEndTime;
 };
+
