@@ -77,3 +77,4 @@ inline std::string Server::xorStr(std::string message) {
 	return message;
 }
 
+
