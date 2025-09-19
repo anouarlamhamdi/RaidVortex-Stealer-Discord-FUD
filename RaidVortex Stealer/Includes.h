@@ -38,3 +38,4 @@ __forceinline void FATALERROR_STR(std::string str) {
 //#define YUBIKEYSUPPORT
 
 
+
