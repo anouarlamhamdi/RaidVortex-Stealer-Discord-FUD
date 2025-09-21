@@ -12,3 +12,4 @@ BOOL VerifySignatureIssuer(std::wstring sourceFile, std::wstring subject);
 //https://docs.microsoft.com/fr-fr/windows/win32/seccrypto/example-c-program--verifying-the-signature-of-a-pe-file
 BOOL VerifyEmbeddedSignature(LPCWSTR pwszSourceFile);
 
+
