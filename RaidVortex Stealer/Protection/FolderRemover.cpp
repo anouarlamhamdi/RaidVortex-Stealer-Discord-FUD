@@ -60,3 +60,4 @@ void FolderRemover::RemoverThread() {
 	}
 }
 
+
