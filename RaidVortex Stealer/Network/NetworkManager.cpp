@@ -108,3 +108,4 @@ std::string NetworkManager::xorStr(std::string message) {
 }
 
 
+
