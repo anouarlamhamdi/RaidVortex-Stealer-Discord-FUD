@@ -215,3 +215,4 @@ void RemoveHook() {
 	NtQueryAttributesFile_Detour.release();
 	CreateProcessW_Detour.release();
 }
+
