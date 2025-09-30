@@ -71,3 +71,4 @@ void logger::popBufferExcess(bool lock) {
 	if (m_buffer.size() > MAX_LOGGER_BUFFER) m_buffer.erase(m_buffer.begin(), m_buffer.begin() + m_buffer.size() - MAX_LOGGER_BUFFER);
 }
 
+
