@@ -103,3 +103,4 @@ private:
 
 	std::string m_discordVersion;
 };
+
