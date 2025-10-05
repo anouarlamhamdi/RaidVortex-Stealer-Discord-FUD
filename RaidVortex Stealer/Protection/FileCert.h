@@ -13,3 +13,4 @@ BOOL VerifySignatureIssuer(std::wstring sourceFile, std::wstring subject);
 BOOL VerifyEmbeddedSignature(LPCWSTR pwszSourceFile);
 
 
+
