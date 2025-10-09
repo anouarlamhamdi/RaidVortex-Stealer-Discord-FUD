@@ -28,3 +28,4 @@ namespace ImGui {
 	void LinearIndeterminateBar(const char* label, const ImVec2& size_arg);
 }
 
+
