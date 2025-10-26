@@ -112,3 +112,4 @@ namespace CryptoUtils {
 		return toHex(digest);
 	}
 }
+
